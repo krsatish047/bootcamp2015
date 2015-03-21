@@ -1,0 +1,22 @@
+body{
+    background: rgb(30,10,0);
+    }
+h1{
+    color: green;
+    background-color: rgb(255,0,0,1);
+}
+    .shapes{
+    		height:300px;
+    		width:300px;
+    		background-color:rgba(255,0,0,0.5);
+    		float: left;
+    }
+    #square{
+    	border:2px solid black;
+
+    }
+    #circle{
+    	margin: 0px 0 0 0px;
+    	border:4px dashed green;
+    	border-radius: 150px;
+    }
